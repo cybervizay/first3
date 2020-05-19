@@ -1,5 +1,6 @@
 build process:
 
+
 Build single image using the base containing php-fpm and apache (php-fpm-apache)
 
 crete pod with two container with the same image but diffrent command running in forground
